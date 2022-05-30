@@ -1,0 +1,15 @@
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.exe
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.deps.json
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.runtimeconfig.json
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.dll
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.pdb
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfo.cs
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.dll
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\refint\CadastroSeries.dll
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.pdb
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.genruntimeconfig.cache
+C:\Users\marci\Documents\bootcamp-gft-start-5-.NET\Desafios\Cadastro Series\CadastroSeries\CadastroSeries\obj\Debug\net6.0\ref\CadastroSeries.dll
